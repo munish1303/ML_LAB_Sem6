@@ -60,6 +60,7 @@ Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ## 🚀 Installation
 git clone https://github.com/munish1303/ML_LAB_Sem6.git
+
 cd ML_Sem6
 
 python -m venv .venv
